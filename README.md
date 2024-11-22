@@ -62,9 +62,8 @@ Scalable e-commerce solution with real-time inventory management and analytics.
 
 ## 📫 Let's Connect!
 
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/engridhonet)
-- 🐦 Follow me on [Twitter](https://twitter.com/engridhonet)
-- 📧 Email me at: your.email@domain.com
+- 💼 Connect with me on [LinkedIn](in/ridho-aulia-rahman-68a9a6247)
+- 📧 Email me at: ridho.aulia133@gmail.com
 
 ---
 ⭐️ From [EngRidhoNet](https://github.com/EngRidhoNet)
