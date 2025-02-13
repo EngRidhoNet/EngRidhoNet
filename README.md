@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Ridho
+# 👨‍💻 Ridho Aulia Rahman
 ### Full Stack Developer & ML Engineer
 
 [![Github](https://img.shields.io/github/followers/EngRidhoNet?label=Follow&style=social)](https://github.com/EngRidhoNet)
