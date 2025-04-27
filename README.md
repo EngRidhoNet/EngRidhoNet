@@ -2,7 +2,7 @@
 
 # Ridho Aulia Rahman
 
-### Full Stack Developer & Machine Learning Engineer
+### Full Stack Developer & AI Engginer
 
 <p>
   <a href="https://www.linkedin.com/in/ridho-aulia-rahman-68a9a6247" target="_blank">
