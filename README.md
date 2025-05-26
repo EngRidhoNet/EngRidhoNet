@@ -131,51 +131,6 @@ I am a results-driven **Full Stack Developer** and **Machine Learning Engineer**
   </tr>
 </table>
 
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Predictive Analytics Platform</h3>
-      <p>Enterprise-grade application that leverages machine learning to provide predictive insights and business intelligence.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Real-time data processing & visualization</li>
-        <li>Custom ML model deployment pipeline</li>
-        <li>Interactive dashboards with drill-down capabilities</li>
-      </ul>
-      <p><b>Tech Stack:</b> Laravel, Vue.js, TensorFlow, PostgreSQL, Docker</p>
-      <p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo" />
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 E-Commerce Microservices Architecture</h3>
-      <p>Scalable e-commerce platform built with microservices architecture, handling thousands of transactions daily.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Real-time inventory & order management</li>
-        <li>AI-powered product recommendations</li>
-        <li>Advanced analytics dashboard</li>
-      </ul>
-      <p><b>Tech Stack:</b> Node.js, Vue.js, MongoDB, Docker, AWS</p>
-      <p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo" />
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## 📞 Let's Build Something Amazing
 
 I'm always open to discussing new projects, innovative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the channels below:
