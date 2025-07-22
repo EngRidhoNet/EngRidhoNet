@@ -130,15 +130,6 @@ ml_stack = {
 
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EngRidhoNet&repo=ai-powered-webapp&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/EngRidhoNet/ai-powered-webapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EngRidhoNet&repo=vue-laravel-api&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/EngRidhoNet/vue-laravel-api)
-
-</div>
-
 ## 🤝 Let's Connect & Collaborate
 
 I'm always excited to work on innovative projects and collaborate with fellow developers. Whether you have a groundbreaking idea or need expertise in full-stack development and AI integration, let's create something amazing together!
