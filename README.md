@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ridho%20Aulia%20Rahman&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;AI+%26+Machine+Learning+Integration;Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;AI+and+Machine+Learning+Integration;Passionate+About+Clean+Code" alt="Typing SVG" />
 
-<!-- Social Badges with Hover Effect -->
+<!-- Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/ridho-aulia-rahman-68a9a6247" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<!-- Animated Snake eating contributions -->
+<!-- Animated Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngRidhoNet/EngRidhoNet/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngRidhoNet/EngRidhoNet/output/github-contribution-grid-snake.svg">
@@ -67,12 +67,12 @@ const ridho = {
     <td align="center" width="33%">
       <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,fastapi" /><br>
       <sub><b>Backend Engineering</b></sub><br>
-      <sub>Scalable APIs & microservices</sub>
+      <sub>Scalable APIs and microservices</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>
-      <sub><b>AI & Machine Learning</b></sub><br>
+      <sub><b>AI and Machine Learning</b></sub><br>
       <sub>ML models in production</sub>
     </td>
   </tr>
@@ -99,7 +99,7 @@ const ridho = {
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Infrastructure</b></summary>
+<summary><b>⚙️ Backend and Infrastructure</b></summary>
 <br>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -116,7 +116,7 @@ const ridho = {
 </details>
 
 <details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><b>🤖 AI and Machine Learning</b></summary>
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -131,7 +131,7 @@ const ridho = {
 </details>
 
 <details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
+<summary><b>☁️ DevOps and Cloud</b></summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -157,7 +157,7 @@ const ridho = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngRidhoNet&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngRidhoNet&custom_title=Ridho's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngRidhoNet&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true" alt="Activity Graph" />
 
 <!-- Trophy Stats -->
 <img src="https://github-profile-trophy.vercel.app/?username=EngRidhoNet&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
@@ -184,7 +184,7 @@ const ridho = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable APIs with Laravel & Microservices](https://ridho-portfolio.dev/blog/scalable-apis)
+- 🚀 [Building Scalable APIs with Laravel and Microservices](https://ridho-portfolio.dev/blog/scalable-apis)
 - 🤖 [Integrating ML Models into Production Applications](https://ridho-portfolio.dev/blog/ml-production)
 - 💡 [Vue.js Performance Optimization Techniques](https://ridho-portfolio.dev/blog/vue-optimization)
 - 🔧 [Clean Code Principles Every Developer Should Know](https://ridho-portfolio.dev/blog/clean-code)
@@ -197,7 +197,7 @@ const ridho = {
 ```mermaid
 graph LR
     A[Learning] --> B[Advanced System Design]
-    A --> C[Kubernetes & DevOps]
+    A --> C[Kubernetes and DevOps]
     A --> D[Advanced NLP Techniques]
     B --> E[Building Better]
     C --> E
