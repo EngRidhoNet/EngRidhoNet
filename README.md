@@ -35,7 +35,7 @@
 ```typescript
 const ridho = {
   role: "Full Stack Developer & AI Engineer",
-  location: "Jember, East Java 🇮🇩",
+  location: "Malang, East Java 🇮🇩",
   focus: ["Web Development", "AI/ML", "Cloud Architecture"],
   
   currentlyLearning: ["Advanced NLP", "Kubernetes", "System Design"],
@@ -45,7 +45,6 @@ const ridho = {
     "Contributing to open-source projects",
     "Writing technical blogs"
   ],
-  
   lifePhilosophy: "Code is poetry, AI is the future 🚀"
 };
 ```
