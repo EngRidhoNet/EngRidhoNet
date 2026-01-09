@@ -104,14 +104,6 @@ const ridho = {
 ![Notion](https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-### 📊 Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EngRidhoNet&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=EngRidhoNet&theme=github-dark-blue&hide_border=true" />
-</div>
 
 ### 💼 Open for
 
