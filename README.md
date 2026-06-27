@@ -79,24 +79,6 @@ const ridho = {
 | **Healthcare Ecosystem** | Modular platform — telemedicine, pharmacy, lab, and digital wallet with microservices architecture | `NestJS` `PostgreSQL` `Docker` |
 | **Sustainability Commerce** | Intelligent marketplace platform with AI planning and mobile-first architecture | `Next.js` `FastAPI` `React Native` |
 
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ridhoaulia&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=prs" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhoaulia&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhoaulia&theme=github-compact&hide_border=true&bg_color=00000000&color=888888&line=ffffff&point=ffffff)
-
-</div>
-
----
 
 <div align="center">
 
